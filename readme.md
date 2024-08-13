@@ -26,7 +26,6 @@ cd CVE-Scanner
 pip3 install -r requirements.txt
 python3 cve_scanner.py
 ```
- 
 ### 📷 Screenshot
 ---
 ![result](<screenshot.png>)
